@@ -1,4 +1,4 @@
 {
-    "testRepo": "Name(not the link) of the Solution Repo",
+    "testRepo": "javascript-sum-of-two-numbers-govind2611",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
